@@ -16,3 +16,6 @@ jupyter notebook
 ```
 
 Pilih golang kernel dan jalankan kode Go langsung di notebook.
+
+## Sumber
+[Medium - Yunabe](https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1)
